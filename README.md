@@ -20,7 +20,10 @@
     ```
     request.add_header('Ocp-Apim-Subscription-Key', 'FILL YOUR SUBSCRIPTION KEY at OXFORD API')
     ```
-- Then, execute querying.py
+- Then, _execute querying.py_
+
+
+
 
 * If you want to test your own image, replace the q1.jpg with yours in 'query' folder.
 * If you want to change the train model, chage the model number in querying.py,
