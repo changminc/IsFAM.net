@@ -17,6 +17,7 @@
 - First of all, you need to get a subsrciption key of face detection API from Project Oxford AI: https://www.projectoxford.ai/face
   - it returns a json with age and gender and face positions in an image.  
   - Fill your subscription key into 'projection.py',
+  
     ```
     request.add_header('Ocp-Apim-Subscription-Key', 'FILL YOUR SUBSCRIPTION KEY at OXFORD API')
     ```
