@@ -7,5 +7,5 @@ Requirements on Python Libraries:
 * Pillow==2.9.0
 * requests==2.7.0
 * Also, CORK algorithm by Marisa Thoma
-* * ss
+  - ss
 
