@@ -24,7 +24,7 @@
   - Fill your subscription key into 'projection.py',
   
     ```
-    request.add_header('Ocp-Apim-Subscription-Key', 'FILL YOUR SUBSCRIPTION KEY at OXFORD API')
+    request.add_header('Ocp-Apim-Subscription-Key', 'FILL YOUR SUBSCRIPTION KEY of OXFORD API')
     ```
 - Then, **execute querying.py**
 
