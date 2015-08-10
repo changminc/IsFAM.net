@@ -28,6 +28,7 @@
 
 * If you want to test your own image, replace the q1.jpg with yours in 'query' folder.
 * If you want to change the train model, chage the model number in querying.py,
+
   ```
   model_path = 'model_1'
   ```
