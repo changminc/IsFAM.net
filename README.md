@@ -7,7 +7,7 @@
 
 
 **[ Requirements ]**
-  * Python Libraries
+  * Python Libraries based on python 2.7.9
     * networkx==1.9.1
     * numpy==1.9.2
     * Pillow==2.9.0
