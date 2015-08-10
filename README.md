@@ -41,7 +41,7 @@
 
 
 
-**[ create_trainmodel.py and CORK]**
+**[ CORK and create_trainmodel.py ]**
   - You can build your own train model using CORK algorithm and 'create_trainmodel.py'
   - CORK returns the discriminative subgraphs such as 'Train_Cutoff4_CORKMAX_n2.subg' in 'train\model_1' folder
   - 'create_trainmodel.py' tranform its type to some files: face graps, matrix of subgraphs
