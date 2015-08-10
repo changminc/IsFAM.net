@@ -1,8 +1,12 @@
 # IsFAM.net
-<Discriminative Subgraphs for Discovering Family Photos>
+
+**[ Discriminative Subgraphs for Discovering Family Photos ]**
 - We apply CORK algorithm for classifying group photos into family and non-family.
 
-<Requirements on Python Libraries>
+
+
+
+**[ Requirements on Python Libraries ]**
 * networkx==1.9.1
 * numpy==1.9.2
 * Pillow==2.9.0
@@ -13,7 +17,8 @@
   - (extension) https://code.google.com/p/grad-proj/source/browse/#svn%2Ftrunk%2Fgspancpp%2Fbin%253Fstate%253Dclosed
 
 
-<Example of querying>
+
+**[ Querying Example ]**
 - First of all, you need to get a subsrciption key of face detection API from Project Oxford AI: https://www.projectoxford.ai/face
   - it returns a json with age and gender and face positions in an image.  
   - Fill your subscription key into 'projection.py',
