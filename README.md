@@ -1,6 +1,8 @@
 # IsFAM.net
 Discriminative Subgraphs for Discovering Family Photos
 
+We apply CORK algorithm for classifying group photos into family and non-family.
+
 Requirements on Python Libraries:
 * networkx==1.9.1
 * numpy==1.9.2
