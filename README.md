@@ -20,7 +20,7 @@
     ```
     request.add_header('Ocp-Apim-Subscription-Key', 'FILL YOUR SUBSCRIPTION KEY at OXFORD API')
     ```
-- Then, _execute querying.py_
+- Then, ~execute querying.py~
 
 
 
